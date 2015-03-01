@@ -1,0 +1,120 @@
+  /* Style sheet for adding Style */
+
+
+body		{background-color:	skyblue;}
+.main-box	{border-color:		navy;}
+.page-title	{color:			navy;}
+.tagline	{color:			red;}
+
+
+
+/* THE REST OF THE CSS */
+
+.number-square {                      /*Square Number Title*/
+    border-radius: 10%;
+
+    width: 100px;
+    height: 75px;
+    padding: 10px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+
+    background: skyblue;
+    border: 5px solid navy;
+    color: navy;
+    text-align: center;
+    font-family: "comic sans ms";
+    font-size: 16pt;
+    float: left;
+    color: red;
+    margin-top: 5px;
+}
+
+.lesson-title{                      /*Main Lesson Title*/
+	font-size: 20px;
+	text-align: right;
+	font-weight: bold;
+	margin: 5px;
+	text-align: left;
+	color: navy;
+}
+
+.lesson-subject{                      /*Main Lesson Subject*/
+	font-size: 18px;
+	font-weight: bold;
+	text-align: right;
+	margin: -2px;
+	margin-bottom: -18px;
+	text-align: left;
+	color: red;
+	
+}
+.lesson-definitions{                      /*Main Lesson Definition*/
+	font-size: 16px;
+	text-align: right;
+	text-indent: 0px;
+	margin: 5px;
+	text-align: left;
+	color: black;
+}
+
+.horzline{                             /*Horizontal Line*/
+	width: 100%;
+	border-width: 5px;
+	
+}
+
+body {                                 /*Body*/				
+	font-family: "comic sans ms"; 	
+	font-size: 12pt;	
+}
+
+h1 {				
+	font-size: 24pt;	
+	font-weight: bold;
+	margin-bottom: 24px;	
+	color: red;
+}
+
+h2 {				
+	margin-top: -2px;
+	font-weight: bold;
+	font-size: 14pt;	
+	margin-bottom: -1px;
+	color: red;
+}
+
+.page-title {                      /*HTML Page Title*/			
+	font-size: 47pt;	
+	font-weight: bold;
+	text-align: center;
+	clear: both;		
+	margin-top: 76px;
+	margin-bottom: 0;
+	letter-spacing: -4px;	
+}
+
+.tagline {                      /*Title Header*/		
+	font-size: 16pt;	
+	font-weight: bold;
+	text-align: center;
+	clear: both;		
+	margin-top: 6px;
+	margin-bottom: 30px;
+	text-transform: uppercase; 
+	letter-spacing: 4px;	
+}
+
+.main-box {                      /*Info in White box*/
+	border-style: solid;
+	border-width: 5px;
+	padding: 20px 40px;	
+	margin: -10px auto;
+	width: 85%;
+	background: #FFFFFF;
+	line-height: 150%;
+	border-radius: 20px;	
+}
+
+
+
